@@ -7,11 +7,11 @@
 
 `pip install -r requirements.txt`
 
-'pip install stripe'
+`pip install stripe`
 
-'pip install django-countries'
+`pip install django-countries`
 
-'pip install django-allauth'
+`pip install django-allauth`
 
 `python manage.py makemigrations`
 
